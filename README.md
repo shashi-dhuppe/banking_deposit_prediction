@@ -1,5 +1,11 @@
 # banking_deposit_prediction
 
+### How to Use:
+
+    The User Interface notebook, creates an application which will take input as form boxes and creates csv. 
+    
+    Currently csv is incomplete. Latest update is, building date picker
+
 The current goal is to create GUI to take user i/p to form csv document, which will be used as final testing csv
 
 The end goal is to train machine learning model and to predict whether the given user will make a deposit.
