@@ -1,3 +1,2 @@
-age,job,marital,education,default,balance,housing,loan,contact
-23,unemployed,married,cellular,No,23,No,No,
-34,unemployed,married,primary,No,2344,No,No,telephone
+age,job,marital,education,default,balance,housing,loan,contact,day,month,duration,campaign,pdays,previous,poutcome
+1,unemployed,married,primary,,2,,,cellular,4,2,3,4,5,6,failure
